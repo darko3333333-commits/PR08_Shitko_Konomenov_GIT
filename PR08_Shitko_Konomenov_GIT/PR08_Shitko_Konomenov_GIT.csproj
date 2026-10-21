@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0CAF472-F81E-3432-1C15-B15DF0378398}</ProjectGuid>
+    <ProjectGuid>{6D59A969-DEE2-46C0-BF2F-DD9F2ABFB74F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>PR08_Shitko_Konomenov_GIT</RootNamespace>
     <AssemblyName>PR08_Shitko_Konomenov_GIT</AssemblyName>
